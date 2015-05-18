@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - soa@localhost" uuid="858d55a1-aa71-41bd-90a3-d51a182f3e17">
+      <secret-storage>master_key</secret-storage>
+      <user-name>soa</user-name>
+      <schema-pattern>soa.pg_catalog soa.public</schema-pattern>
+      <default-schemas>soa.pg_catalog soa.public</default-schemas>
+    </data-source>
+  </component>
+</project>
